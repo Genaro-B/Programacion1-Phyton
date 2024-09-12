@@ -5,7 +5,7 @@
 #intentos). Si no acierta en ninguno de los 3 intentos, mostrar el mensaje “El acceso se 
 #ha bloqueado después de los 3 intentos”. Fin programa.
 
-#Creamos la variable clave y la inicializamos:S
+#Creamos la variable clave y la inicializamos:
 clave="Admin12"
 ingreso=""
 intentos=3
